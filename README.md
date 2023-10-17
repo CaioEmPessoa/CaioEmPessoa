@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @CaioEmPessoa
-- I’m currently learning/working with Python, Javascript, C/C++, PHP and MySQL <br><br>
+- I’m currently learning/working with Python, Javascript, C/C++, PHP and MySQL
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## In python I use:
   * CustomTkinter
@@ -19,7 +19,8 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-	<img width="50" src="https://skillicons.dev/icons?i=git,github" alt="CSS" title="CSS"/></code>
+	<img width="50" src="https://skillicons.dev/icons?i=git" alt="CSS" title="CSS"/></code>
+	<img width="50" src="https://skillicons.dev/icons?i=github" alt="CSS" title="CSS"/></code>
 </div>
 - You can reach me on:
 [Linkedin]([https://pages.github.com](https://www.linkedin.com/in/caio-polonio-848b94218/)https://www.linkedin.com/in/caio-polonio-848b94218/) || [Instagram](https://www.instagram.com/caioempessoa/) || [Twitter](https://twitter.com/CaioEmPessoa).
