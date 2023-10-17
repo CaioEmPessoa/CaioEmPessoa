@@ -1,21 +1,33 @@
 ## 👋 Hi, I’m @CaioEmPessoa
 
-### I’m currently learning/working with:
- - Python
- - Javascript
- - C/C++
- - PHP
- - MySQL
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioempessoa&layout=compact&theme=cobalt)
-
-
-## In python I mostly use:
-  * CustomTkinter
-  * AutoGuiPy
-  * Flask
-  * Selenium
-  * Pandas
+<table>
+ <tr>
+  <td>
+   <h3> I’m currently learning/working with: </h3>
+   <ul>
+    <li> Python </li>
+    <li> Javascript </li>
+    <li> C/C++ </li>
+    <li> PHP </li>
+    <li> MySQL </li>
+   </ul>
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioempessoa&layout=compact&theme=cobalt)
+  </td>
+  
+  <td>
+   <h3> In python I mostly use: </h3>
+   <ul>
+    <li> CustomTkinter </li>
+    <li> AutoGuiPy </li>
+    <li> Flask </li>
+    <li> Selenium </li>
+    <li> Pandas </li>
+   </ul>
+  </td>
+ 
+ </tr>
+</table>
 
 [![My Skills](https://skillicons.dev/icons?i=py,flask,django,selenium,vscode,azure,js,html,css,mysql,github,git)](https://skillicons.dev)
 
