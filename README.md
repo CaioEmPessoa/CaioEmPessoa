@@ -15,6 +15,7 @@
   * Selenium
   * Pandas
 
+<div>
 <img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
 <img width="30" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/>
@@ -25,8 +26,9 @@
 <img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
 <img width="30" src="https://skillicons.dev/icons?i=git" alt="CSS" title="CSS"/>
 <img width="30" src="https://skillicons.dev/icons?i=github" alt="CSS" title="CSS"/>
+</div>
 
-- You can reach me on: <br><br>
+- You can reach me on: <br>
 
 <a href="https://www.linkedin.com/in/caio-polonio-848b94218"><img width="30" src="https://skillicons.dev/icons?i=linkedin" alt="CSS" title="CSS"/></a> 
 <a href="https://www.instagram.com/caioempessoa/"><img width="30" src="https://skillicons.dev/icons?i=instagram" alt="CSS" title="CSS"/></a> 
