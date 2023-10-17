@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @CaioEmPessoa
-- I’m currently learning/working with Python, Javascript, C/C++, PHP and MySQL
+- I’m currently learning/working with Python, Javascript, C/C++, PHP and MySQL <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## In python I use:
