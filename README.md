@@ -2,9 +2,9 @@
 
 ### I’m currently learning/working with:
  - Python
+ - PHP
  - Javascript
  - C/C++
- - PHP
  - MySQL
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioempessoa&layout=compact&theme=cobalt)
