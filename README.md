@@ -24,4 +24,4 @@
 <br>
 <a href="https://www.linkedin.com/in/caio-polonio-848b94218"><img width="50" src="https://skillicons.dev/icons?i=linkedin" alt="CSS" title="CSS"/>  </a>
 <a href="https://www.instagram.com/caioempessoa/"><img width="50" src="https://skillicons.dev/icons?i=instagram" alt="CSS" title="CSS"/>  </a> 
-<a href="https://www.twitter.com/CaioEmpPessoa/"><img width="50" src="https://skillicons.dev/icons?i=twitter" alt="CSS" title="CSS"/>  </a>
+<a href="https://www.twitter.com/CaioEmPessoa/"><img width="50" src="https://skillicons.dev/icons?i=twitter" alt="CSS" title="CSS"/>  </a>
