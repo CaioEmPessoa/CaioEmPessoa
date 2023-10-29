@@ -6,6 +6,7 @@
  - Javascript
  - C/C++
  - MySQL
+ - HTML/CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioempessoa&layout=compact&theme=cobalt)
 
