@@ -4,6 +4,7 @@
  - Python
  - PHP
  - Javascript
+ - Node JS
  - C/C++
  - MySQL
  - HTML/CSS
