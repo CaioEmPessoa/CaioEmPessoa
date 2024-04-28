@@ -16,6 +16,7 @@
   * CustomTkinter
   * AutoGuiPy
   * Flask
+  * Django
   * Selenium
   * Pandas
 
