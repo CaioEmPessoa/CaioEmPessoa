@@ -1,18 +1,19 @@
 ## 👋 Hi, I’m @CaioEmPessoa
 
-### I’m currently learning/working with:
- - Python
+### I have worked/am working on projects with theese languages:
+ - C
+ - Appian (not on github, on work)
+ - Java
+ - Python (on most of my projects)
  - PHP
  - Javascript
- - Node JS
- - C/C++
  - MySQL
  - HTML/CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioempessoa&layout=compact&theme=cobalt)
 
 
-## In python I mostly use:
+## In python I know how to use:
   * CustomTkinter
   * AutoGuiPy
   * Flask
