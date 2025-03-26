@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioempessoa&layout=compact&theme=cobalt)
 
 
-## In python I know how to use:
+## In python I already worked on:
   * CustomTkinter
   * AutoGuiPy
   * Flask
