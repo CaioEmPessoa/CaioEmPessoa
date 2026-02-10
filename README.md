@@ -10,7 +10,7 @@
  - MySQL
  - HTML/CSS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioempessoa&layout=compact&theme=cobalt)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CaioEmPessoa&layout=compact&langs_count=6&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=CaioEmPessoa&layout=compact&langs_count=7&theme=jolly)
 
 
 ## In python I already worked on:
