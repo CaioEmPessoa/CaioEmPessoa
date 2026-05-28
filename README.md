@@ -13,7 +13,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CaioEmPessoa&layout=compact&langs_count=6&theme=jolly)](https://github-stats-extended.vercel.app/api/top-langs?username=CaioEmPessoa&layout=compact&langs_count=7&theme=jolly)
 
 
-## In python I already worked on:
+## In python I already worked with:
   * CustomTkinter
   * AutoGuiPy
   * Flask
