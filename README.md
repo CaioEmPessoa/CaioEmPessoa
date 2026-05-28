@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @CaioEmPessoa
 
-### I have worked/am working on projects with theese languages:
+### I have worked/am working on projects with these languages:
  - C
  - Appian (not on github, on work)
  - Java
