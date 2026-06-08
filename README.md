@@ -5,8 +5,8 @@
  - Appian (not on github, on work)
  - Java
  - Python (on most of my projects)
+  - Javascript/Typescript
  - PHP
- - Javascript
  - MySQL
  - HTML/CSS
 
